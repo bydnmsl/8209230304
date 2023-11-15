@@ -1,0 +1,5 @@
+﻿p1.obj : error LNK2005: main 已经在 p.obj 中定义
+p.obj : error LNK2019: 无法解析的外部符号 "void __cdecl p1dispG(void)" (?p1dispG@@YAXXZ)，函数 main 中引用了该符号
+p1.obj : error LNK2001: 无法解析的外部符号 "void __cdecl p1dispG(void)" (?p1dispG@@YAXXZ)
+p1.obj : error LNK2019: 无法解析的外部符号 "void __cdecl p3dispH(void)" (?p3dispH@@YAXXZ)，函数 main 中引用了该符号
+C:\Users\Aa\Desktop\C++主线\2023.11.1\x64\Debug\2023.11.1.exe : fatal error LNK1120: 2 个无法解析的外部命令
